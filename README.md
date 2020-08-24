@@ -1,4 +1,8 @@
-### Hi there 👋
+### Lucas Klassmann
+
+Most recently I have been working as a Senior Software Developer at [Sheetgo](https://www.sheetgo.com/). I started working with programming in 2004. I worked with  many languages and platforms, but my favorites languages are C, Python, Go, Lua on a Linux environment. In my career I have been focusing more on the back-end, improving my system design and system programming skills. I also enjoy studying more about Operating Systems and Computer Architecture.
+
+[[Web site](http://lucasklassmann.com)] [[LinkedIn](https://www.linkedin.com/in/lucasklassmann/)]
 
 <!--
 **klassmann/klassmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
