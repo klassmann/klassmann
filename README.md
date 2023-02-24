@@ -1,8 +1,11 @@
-### "Hello there!", 0x0
+## title: db "Hello there!", 0x0
+I am a Senior Software Developer at [Sheetgo](https://www.sheetgo.com/) in the back-end and performance team. My journey in programming started in 2004. I worked with many languages and platforms, but currently, I have projects using C, Python, Go, and Lua in a Linux environment. In my career, my focus has been more on the back end, improving my skills in system design, system programming, performance, and problem-solving. I also enjoy studying more about operating systems and computer architecture and making my projects in game development.
 
-Most recently I have been working as a Senior Software Developer at [Sheetgo](https://www.sheetgo.com/). I started working with programming in 2004. I worked with  many languages and platforms, but my favorites languages are C, Python, Go, Lua on a Linux environment. In my career I have been focusing more on the back-end, improving my system design and system programming skills. I also enjoy studying more about Operating Systems and Computer Architecture.
+### Latest Articles
+- [Embedding Lua in C](https://lucasklassmann.com/blog/2019-02-02-how-to-embedding-lua-in-c/)
+- [Handling Binary Files in Go](https://lucasklassmann.com/blog/2018-07-21-handling-binary-files-in-go/)
 
-[[Web site](http://lucasklassmann.com)] [[LinkedIn](https://www.linkedin.com/in/lucasklassmann/)]
+[[lucasklassmann.com](http://lucasklassmann.com)] [[LinkedIn](https://www.linkedin.com/in/lucasklassmann/)]
 
 <!--
 **klassmann/klassmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
