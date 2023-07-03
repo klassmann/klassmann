@@ -1,5 +1,5 @@
 ## title: db "Hello there!", 0x0
-I am a Senior Software Developer at [Sheetgo](https://www.sheetgo.com/) in the back-end and performance team. My journey in programming started in 2004. I worked with many languages and platforms, but currently, I have projects using C, Python, Go, and Lua in a Linux environment. In my career, my focus has been more on the back end, improving my skills in system design, system programming, performance, and problem-solving. I also enjoy studying more about operating systems and computer architecture and making my projects in game development.
+I am a Senior Software Engineer at [Sheetgo](https://www.sheetgo.com/) in the back-end and performance team. My journey in programming started in 2004. I worked with many languages and platforms, but currently, I have projects using C, Python, Go, and Lua in a Linux environment. In my career, my focus has been more on the back end, improving my skills in system design, system programming, performance, and problem-solving. I also enjoy studying more about operating systems and computer architecture and making my projects in game development.
 
 ### Latest Articles
 - [More Advanced Examples of Embedding Lua in C](https://lucasklassmann.com/blog/2023-02-26-more-advanced-examples-of-embedding-lua-in-c/)
