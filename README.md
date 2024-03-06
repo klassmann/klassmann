@@ -6,6 +6,7 @@ I am a Senior Software Engineer at [Sheetgo](https://www.sheetgo.com/) in the ba
 - [More Advanced Examples of Embedding Lua in C](https://lucasklassmann.com/blog/2023-02-26-more-advanced-examples-of-embedding-lua-in-c/)
 - [Embedding Lua in C](https://lucasklassmann.com/blog/2019-02-02-how-to-embedding-lua-in-c/)
 - [Handling Binary Files in Go](https://lucasklassmann.com/blog/2018-07-21-handling-binary-files-in-go/)
+- [Handling SIGTERM in Gunicorn](https://lucasklassmann.com/devlog/2024-03-05-gunicorn-custom-worker-sigterm/)
 
 [[lucasklassmann.com](http://lucasklassmann.com)] [[LinkedIn](https://www.linkedin.com/in/lucasklassmann/)]
 
